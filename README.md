@@ -1,4 +1,4 @@
-# Ayami-Music
+# Miku Discord Bot
 
 ->A Privacy Policy &amp; Terms Of Service for Discord Bot Miku!
 
